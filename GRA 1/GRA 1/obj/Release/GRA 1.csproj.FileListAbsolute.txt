@@ -1,0 +1,6 @@
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\bin\Release\GRA 1.exe.config
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\bin\Release\GRA 1.exe
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\bin\Release\GRA 1.pdb
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\obj\Release\GRA 1.csprojResolveAssemblyReference.cache
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\obj\Release\GRA 1.exe
+c:\users\ostrowsx\documents\visual studio 2015\Projects\GRA 1\GRA 1\obj\Release\GRA 1.pdb
